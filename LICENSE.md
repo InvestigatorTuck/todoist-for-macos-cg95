@@ -1,4 +1,4 @@
-
+vip Utility for Todoist for macOS - auto-sync and OCR scanning offers the most advanced Todoist for macOS utility, with auto-sync and OCR scanning. Ideal for professionals.
 
 
 
